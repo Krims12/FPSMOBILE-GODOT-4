@@ -1,0 +1,15 @@
+Button
+CharacterBody3D
+AnimationPlayer
+Node3D
+CSGPolygon3D
+CSGCombiner3D
+CSGMesh3D
+CSGBox3D
+CSGSphere3D
+TouchScreenButton
+Control
+DirectionalLight3D
+WorldEnvironment
+Camera3D
+MeshInstance3D
